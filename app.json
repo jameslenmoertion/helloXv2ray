@@ -1,8 +1,8 @@
 {
-  "name": "lov2ray",
+  "name": 99pol2ray",
   "description": "greg",
   "keywords": [
-    "123456789"
+    "19655584182"
   ],
   "env": {
     "PROTOCOL": {
@@ -11,18 +11,18 @@
       "required": true
     },
     "UUID": {
-      "description": "cfd34bb2-2842-444f-abb8-050af290ef81",
+      "description": "2c2accb2-56aa-476c-ad84-78feebe6b0cc",
       "value": "",
       "required": false
     },
     "WS_PATH": {
-      "description": "https://github.com/dukelookyuener/helloXv2ray",
+      "description": "https://github.com/jameslenmoertion/helloXv2ray",
       "value": "/ray",
       "required": true
     }
   },
-  "website": "https://github.com/dukelookyuener/helloXv2ray",
-  "repository": "https://github.com/dukelookyuener/helloXv2ray",
+  "website": "https://github.com/jameslenmoertion/helloXv2ray",
+  "repository": "https://github.com/jameslenmoertion/helloXv2ray",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
